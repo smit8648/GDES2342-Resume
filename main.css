@@ -1,0 +1,75 @@
+.lead {
+	font-size: 14pt;
+	
+}
+.display-4 {
+	color: black;
+}
+
+
+
+#sectionhead {
+	font-size: 20pt;
+}
+
+.col-sm-7 {
+	text-align: left;
+}
+
+
+#ul2 {
+	line-height: default;
+
+}
+
+.jumbotron {
+	background-color: default;
+}
+
+.hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
+
+#skill {
+align-content: right;
+}
+
+.container-fluid {
+	background-color: none;
+}
+
+.navbar {
+  background-color: #334;
+  overflow: hidden;
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+  justify-content: center;
+
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 6px 8px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+#jobtitle{
+	font-size: 16pt;
+}
+
+.navbar {
+	float: center;
+}
+
+html {margin-bottom: 65px}
